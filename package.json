@@ -1,0 +1,15 @@
+{
+  "name": "encrypter",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "caesar-crypter": "^1.0.0",
+    "cryptonger": "^1.0.0"
+  }
+}
